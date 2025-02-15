@@ -257,32 +257,32 @@
         <mxCell id="0WrBSJpfv41hSaLduFJo-8" value="Finalizar PQR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0WrBSJpfv41hSaLduFJo-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0WrBSJpfv41hSaLduFJo-9" target="0WrBSJpfv41hSaLduFJo-10">
+        <mxCell id="0WrBSJpfv41hSaLduFJo-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0WrBSJpfv41hSaLduFJo-9" target="0WrBSJpfv41hSaLduFJo-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0WrBSJpfv41hSaLduFJo-9" value="Khronos genera archivo plano" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0WrBSJpfv41hSaLduFJo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0WrBSJpfv41hSaLduFJo-10" target="0WrBSJpfv41hSaLduFJo-11">
+        <mxCell id="0WrBSJpfv41hSaLduFJo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0WrBSJpfv41hSaLduFJo-10" target="0WrBSJpfv41hSaLduFJo-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0WrBSJpfv41hSaLduFJo-10" value="Enviar información a SFC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="236" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0WrBSJpfv41hSaLduFJo-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0WrBSJpfv41hSaLduFJo-11" target="0WrBSJpfv41hSaLduFJo-12">
+        <mxCell id="0WrBSJpfv41hSaLduFJo-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0WrBSJpfv41hSaLduFJo-11" target="0WrBSJpfv41hSaLduFJo-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0WrBSJpfv41hSaLduFJo-11" value="Llega respuesta SFC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0WrBSJpfv41hSaLduFJo-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0WrBSJpfv41hSaLduFJo-12" target="0WrBSJpfv41hSaLduFJo-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0WrBSJpfv41hSaLduFJo-12" value="Khronos registra la respuesta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0WrBSJpfv41hSaLduFJo-13" value="FIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="830" width="100" height="50" as="geometry" />
+          <mxGeometry x="600" y="550" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
