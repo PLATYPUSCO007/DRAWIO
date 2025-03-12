@@ -293,6 +293,27 @@
         <mxCell id="zxy543KPwrL9cgwo-St8-1" value="Ingresar un valor de fraude en el campo Tema Especifico&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HQ7Ztze2YgYVgOAQB5p8-1" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="140" y="190" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Ztze2YgYVgOAQB5p8-2" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="399" y="140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Ztze2YgYVgOAQB5p8-3" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="769" y="125" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Ztze2YgYVgOAQB5p8-4" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="180" y="320" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Ztze2YgYVgOAQB5p8-5" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="180" y="420" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Ztze2YgYVgOAQB5p8-6" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="356" y="410" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ7Ztze2YgYVgOAQB5p8-7" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="720" y="420" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
