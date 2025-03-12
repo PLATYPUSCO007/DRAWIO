@@ -186,15 +186,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0WrBSJpfv41hSaLduFJo-3" value="Diligencia Campos de Fraude" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="236" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0WrBSJpfv41hSaLduFJo-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0WrBSJpfv41hSaLduFJo-4" target="0WrBSJpfv41hSaLduFJo-3" edge="1">
+        <mxCell id="0WrBSJpfv41hSaLduFJo-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zxy543KPwrL9cgwo-St8-1" target="0WrBSJpfv41hSaLduFJo-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0WrBSJpfv41hSaLduFJo-17" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0WrBSJpfv41hSaLduFJo-16" vertex="1" connectable="0">
-          <mxGeometry x="-0.093" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="0WrBSJpfv41hSaLduFJo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0WrBSJpfv41hSaLduFJo-4" target="0WrBSJpfv41hSaLduFJo-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -224,13 +219,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0WrBSJpfv41hSaLduFJo-5" value="¿Cumple reglas?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="414" y="210" width="80" height="80" as="geometry" />
+          <mxGeometry x="588" y="210" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0WrBSJpfv41hSaLduFJo-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0WrBSJpfv41hSaLduFJo-6" target="0WrBSJpfv41hSaLduFJo-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0WrBSJpfv41hSaLduFJo-6" value="Adjuntar documento para fraude" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="894" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0WrBSJpfv41hSaLduFJo-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0WrBSJpfv41hSaLduFJo-7" target="0WrBSJpfv41hSaLduFJo-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -249,7 +244,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0WrBSJpfv41hSaLduFJo-7" value="¿Adjuntar doc de fraude?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="190" width="120" height="120" as="geometry" />
+          <mxGeometry x="724" y="190" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0WrBSJpfv41hSaLduFJo-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0WrBSJpfv41hSaLduFJo-8" target="0WrBSJpfv41hSaLduFJo-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -283,6 +278,20 @@
         </mxCell>
         <mxCell id="0WrBSJpfv41hSaLduFJo-13" value="FIN" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="550" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zxy543KPwrL9cgwo-St8-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0WrBSJpfv41hSaLduFJo-4" target="zxy543KPwrL9cgwo-St8-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="250" as="sourcePoint" />
+            <mxPoint x="410" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zxy543KPwrL9cgwo-St8-3" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zxy543KPwrL9cgwo-St8-2">
+          <mxGeometry x="-0.093" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zxy543KPwrL9cgwo-St8-1" value="Ingresar un valor de fraude en el campo Tema Especifico&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
