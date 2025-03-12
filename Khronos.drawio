@@ -370,6 +370,9 @@
         <mxCell id="QK2aToU6SemE3S2v1j8S-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_5I_tc4lhx6ekum1r4VF-14" target="_5I_tc4lhx6ekum1r4VF-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1RnPg4wdvMdwGOlKMlll-1" value="Control - M" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.clock;" vertex="1" parent="1">
+          <mxGeometry x="590" y="130" width="22.5" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
